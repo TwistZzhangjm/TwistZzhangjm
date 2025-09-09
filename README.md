@@ -1,4 +1,4 @@
-<img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/bb0b2c6f-7aa6-47d5-8066-d81bfc5aaf28" />软件工程第一次作业
+软件工程第一次作业
 ======
 自我介绍+软工5问
 ------
